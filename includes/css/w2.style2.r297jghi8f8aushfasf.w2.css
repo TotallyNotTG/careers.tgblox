@@ -1,0 +1,120 @@
+/*
+
+
+Ollieblox Corp CSS. All rights reserved.
+
+Please dont take this css.
+Thank you.
+
+v.1.0.0 CSS
+
+*/
+.top-nav {
+    width: 1000px;
+    height: 80px;
+    background: rgb(25, 25, 25);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-top: 80px;
+    position: sticky;
+    top: 0px;
+}
+.logo {
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.pages {
+    text-decoration: rgb(35, 35, 35);
+    font-size: 22px;
+    margin-left: 10px;
+    text-underline-offset: 20px;
+    transition: color 0.2s;
+}
+.pages:hover {
+    text-decoration: rgb(119, 15, 255);
+    color: white;
+}
+.main {
+    width: 1000px;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.spinner {
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 1000px;
+    height: 40px;
+    background: transparent url(https://totallynottg.github.io/web.tgblox/tr.tgnblx.com/loader.gif.gif) no-repeat center;
+    background-size: 8%;
+}
+.left-area {
+    width: 450px;
+}
+.right-area {
+    width: 450px;
+    margin-top: -220px;
+    margin-left: auto;
+}
+.text-large {
+    font-size: 50px;
+}
+.text-medium {
+    font-size: 35px;
+}
+.game-logo {
+    border-radius: 5px;
+    transition: width 0.5s;
+}
+.game-logo:hover {
+    width: 160px;
+    cursor: pointer;
+}
+.sideways {
+    transform: rotate(15deg);
+}
+.search-bar {
+    border-radius: 5px;
+    border: 1px solid rgb(200,200,200);
+    background-color: transparent;
+    width: 420px;
+    height: 30px;
+}
+.bottom-area {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.workers {
+    width: 800px;
+    height: fit-content;
+    background-color: rgb(23, 42, 39);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.worker-img {
+    width: 200px;
+    border-radius: 5px;
+}
+.worker-quote {
+    width: 380px;
+    margin-left: 220px;
+    margin-top: -250px;
+}
+.left-part {
+    width: 480px;
+    border-bottom: 0.5px solid rgb(200,200,200);
+}
+.right-part {
+    width: 480px;
+    margin-left: 480px;
+    margin-top: -137px;
+    border-bottom: 0.5px solid rgb(200,200,200);
+}
+.footer {
+    margin-left: 250px;
+}

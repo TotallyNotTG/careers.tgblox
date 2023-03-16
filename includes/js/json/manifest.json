@@ -1,0 +1,22 @@
+{
+    "name": "Careers - TGBlox Careers",
+    "short_name": "TGBlox Careers",
+    "description": "Find Careers for Ollieblox.",
+    "display": "standalone",
+    "start_url": ".",
+    "background_color": "#f8f8f8",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://totallynottg.github.io/web.tgblox/tr.tgnblx.com/Olliebloxlogov2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://totallynottg.github.io/web.tgblox/tr.tgnblx.com/Olliebloxlogov2.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
